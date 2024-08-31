@@ -20,14 +20,7 @@ label start:
     # 显示角色立绘。此处使用了占位图，但您也可以在图片目录添加命名为
     # eileen happy.png 的文件来将其替换掉。
 
-
-    # 此处显示各行对话。
-
-    "一间寒冷的木屋"
-
-    "火堆快要熄灭了"
-
-    # show ai normal
+    show ai normal
 
     ai "您已创建一个新的 Ren'Py 游戏。"
 
