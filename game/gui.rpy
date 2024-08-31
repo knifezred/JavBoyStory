@@ -68,7 +68,7 @@ define gui.interface_text_font = "SourceHanSansLite.ttf"
 define gui.text_size = 24
 
 ## 角色名称的大小。
-define gui.name_text_size = 42
+define gui.name_text_size = 36
 
 ## 游戏用户界面中文本的大小。
 define gui.interface_text_size = 28
@@ -114,7 +114,7 @@ define gui.namebox_width = None
 define gui.namebox_height = None
 
 ## 包含角色名字的方框的边界尺寸，以左、上、右、下顺序排列。
-define gui.namebox_borders = Borders(4, 4, 4, 4)
+define gui.namebox_borders = Borders(6, 6, 6, 6)
 
 ## 若为 True，则名字框的背景将平铺；若为 False，则名字框的背景将缩放。
 define gui.namebox_tile = False
